@@ -196,9 +196,8 @@ It demonstrates the ability to work with Python, SQL, and Power BI to solve anal
 
 ## 10. Author
 
-**Your Name**
+**Aman Gupta**
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
 
 **If you found this project useful, feel free to star the repository!** ⭐
